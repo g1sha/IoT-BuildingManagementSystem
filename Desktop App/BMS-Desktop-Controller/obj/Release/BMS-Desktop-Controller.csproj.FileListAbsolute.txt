@@ -1,0 +1,5 @@
+C:\Users\Emir\Desktop\IoT-BMS\IoT-BuildingManagementSystem\Desktop App\BMS-Desktop-Controller\obj\Release\BMS-Desktop-Controller.csprojAssemblyReference.cache
+C:\Users\Emir\Desktop\IoT-BMS\IoT-BuildingManagementSystem\Desktop App\BMS-Desktop-Controller\obj\Release\BMS_Desktop_Controller.Main.resources
+C:\Users\Emir\Desktop\IoT-BMS\IoT-BuildingManagementSystem\Desktop App\BMS-Desktop-Controller\obj\Release\BMS_Desktop_Controller.Properties.Resources.resources
+C:\Users\Emir\Desktop\IoT-BMS\IoT-BuildingManagementSystem\Desktop App\BMS-Desktop-Controller\obj\Release\BMS-Desktop-Controller.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\IoT-BMS\IoT-BuildingManagementSystem\Desktop App\BMS-Desktop-Controller\obj\Release\BMS-Desktop-Controller.csproj.CoreCompileInputs.cache
